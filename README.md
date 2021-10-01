@@ -8,7 +8,7 @@ This repo is just an attempt to read in and factorize a file of numbers.
 * Language: Bash script
 * OS: Ubuntu 20.04 LTS
 
-## Author :user:
+## Author :goat:
 
 [Asmamaw Yismaw](https://www.linkedin.com/in/asmeyb/) | [Twitter](https://twitter.com/asmeyb) | [GitHub](https://github.com/asmeyb)
 
